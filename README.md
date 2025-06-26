@@ -63,8 +63,8 @@
     <div class="container">
       <h2>Contact Me</h2>
       <form id="contactForm">
-        <input type="text" placeholder="Your Name" required />
-        <input type="email" placeholder="Your Email" required />
+        <input type="text" placeholder="Nikhil" required />
+        <input type="email" placeholder="nikhil.kichanagari@gmail.com" required />
         <textarea placeholder="Your Message" rows="5" required></textarea>
         <button type="submit" class="btn">Send</button>
       </form>
